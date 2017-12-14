@@ -10,23 +10,22 @@ toc: true
 forum_category:
 forum_limit: 3
 timeline: 
-- period: May 2017 
-title: Three-year Plan 
-desc: The three-year plan for IT in the public administration was endorsed by the Prime Minister.  The plan devotes an entire chapter to the Interoperability Model, in which it establishes certain basic principles and defines an action plan.
+  - period: May 2017 
+    title: Three-year Plan 
+    desc: The three-year plan for IT in the public administration was endorsed by the Prime Minister.  The plan devotes an entire chapter to the Interoperability Model, in which it establishes certain basic principles and defines an action plan.
   - period: July 2017 
-title: Publication of the Guidelines for transitioning to the new Interoperability Model 
-desc: the Guidelines for transitioning to the new Interoperability Model have been published, providing certain preliminary instructions on the steps to be followed pending the issuance of the complete documentation.
+    title: Publication of the Guidelines for transitioning to the new Interoperability Model 
+    desc: The Guidelines for transitioning to the new Interoperability Model have been published, providing certain preliminary instructions on the steps to be followed pending the issuance of the complete documentation.
   - period: December 2017 
-title: Publication of the New Interoperability Model 
-desc: Publication of the complete documentation on the new Interoperability Model. 
-status: to-do
+    title: Publication of the New Interoperability Model 
+    desc: Publication of the complete documentation on the new Interoperability Model.    status: to-do
 ---
 
 ### In short 
 
-This project represents the execution of [Chapter 5 Interoperability Model](https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html) del [Piano Triennale](https://pianotriennale-ict.italia.it/) of the [Three-year Plan](https://pianotriennale-ict.italia.it/) 
+This project represents the execution of [Chapter 5 Interoperability Model](https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html) of the [Three-year Plan](https://pianotriennale-ict.italia.it/).
 
-Public Administration IT systems must be connected to each other and must speak the same language, rendering the information immediately available wherever it is needed. All applications will have to present interfaces that are comprehensible to the machines (the so-called API - [Application Programming Interface] ((https://it.wikipedia.org/wiki/Application_programming_interface)) and work in an integrated, collaborative and secure manner, facilitating the reuse of existing applications to build new, more powerful and innovative solutions.  
+Public Administration IT systems must be connected to each other and must speak the same language, rendering the information immediately available wherever it is needed. All applications will have to expose interfaces that are comprehensible to the machines (the so-called APIs - [Application Programming Interface] ((https://it.wikipedia.org/wiki/Application_programming_interface)) and work in an integrated, collaborative and secure manner, facilitating the reuse of existing applications to build new, more powerful and innovative solutions.  
 
 The old [SPCoop Application Cooperation] (http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa) model, based on the [Domain Ports] (http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), is no longer effective and [will be exceeded] (http://lg-transizione-interoperabilita.readthedocs.io/) by a new open model, which will also have the objective of simplifying the convention procedures between the entities and the interaction with the Privacy Guarantor.
 
@@ -34,11 +33,13 @@ The old [SPCoop Application Cooperation] (http://www.agid.gov.it/agenda-digitale
 
 ### The role of the Team 
 
-We are working together with AgID in the definition of the technical rules, guidelines, technology standards and the profiles that each PA must adopt, as well as in the design of a new API Catalogue.
+Together with AgID, we are working on the definition of the technical rules, guidelines, technology standards and the profiles that each PA must adopt, as well as on the design of a new API Catalogue.
 
 
 ### Media 
-For any contact request received from the media and journalists, the Digital Transformation Team press and communication office is the point of reference.
+
+Any contact request from the media and journalists should be addressed to the
+Digital Transformation Team press and communication office. 
 
 
 {% include ipress.html %}

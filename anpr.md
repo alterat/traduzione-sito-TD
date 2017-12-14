@@ -73,7 +73,7 @@ all players involved in the project (starting from the 8,000+ Italian
 
 ### Media 
 
-Any contact request from the media and journalist should be addressed to the
+Any contact request from the media and journalists should be addressed to the
 Digital Transformation Team press and communication office. 
 
 {% include ipress.html %}
