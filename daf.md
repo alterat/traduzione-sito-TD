@@ -15,19 +15,19 @@ tweetdeck_id: 913428915095576576
 timeline: 
   - period: January 2017 
     title: Start phase of the project 
-    desc: The DAF project begins to take shape within the TEAM with the creation of the group working on the data 
+    desc: The DAF project begins to take shape within the Team with the creation of the group working on the data 
   - period: April 2017 
     title: Start of development on SPC cloud infrastructure 
-    desc: Commencement of creating the Big Data architecture on SPC cloud lot 1. Opening of the repositories as open source software that is downloadable from the link github.com/teamdigitale/daf 
+    desc: Start the creation of the Big Data architecture on SPC cloud lot 1. Opening of the repositories as open source software that is downloadable from the link github.com/teamdigitale/daf 
   - period: June-December 2017 
     title: Data ingestion in the DAF - Experimental phase 
     desc: Definition of the databases to be included in the project in the experimental phase and the commissioning of the extraction and ingestion procedures. Defining the relationships between the DAF manager and the PAs involved in the initiative.
   - period: December 2017 
     title: Definition and creation of the development plan for the Data &amp; Analytics testing phase
-    desc: Identification of the governance model of the DAF and the PAs that will be part of the testing phase. Defining the platform architecture and its evolutionary roadmap. Definition of use cases for the development Public Administration, citizens and business services. 
+    desc: Identification of the governance model of the DAF and the PAs that will be part of the testing phase. Defining the platform architecture and its evolutionary roadmap. Definition of use cases for the development of services for Public Administrations, citizens and business. 
     status: to-do 
   - period: January 2018 
-    title: Commencing production of the DAF 
+    title: Starting production of the DAF 
     desc: The Digital Team and AgID will draw up the procedures for the future owner of the DAF who will manage the operation and the evolution of the project. The owner of the DAF will take care of the interactions with the PAs to define plans for incorporating their databases and usage cases. From time to time, the PAs will define the data ingestion means and how the DAF is suited to its own activities.
     status: to-do
 ---
