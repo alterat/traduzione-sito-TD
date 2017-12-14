@@ -26,7 +26,9 @@ The rules, i.e. the details, are to be translated into bits, whilst the conventi
 {% include forum.html %}
 
 ### Media 
-For any contact request received from the media and journalists, the Digital Transformation Team press and communication office is the point of reference.
+
+Any contact request from the media and journalists should be addressed to the
+Digital Transformation Team press and communication office. 
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="12"></div>
