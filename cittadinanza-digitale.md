@@ -1,7 +1,7 @@
 ﻿---
 title: Digital citizenship
 lang: en
-permalink: /it/projects/cittadinanza-digitale.htm
+permalink: /en/projects/cittadinanza-digitale.htm
 layout: project
 ref: cittadinanza-digitale
 parent_ref: projects

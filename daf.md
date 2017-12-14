@@ -1,7 +1,7 @@
 ﻿---
 title: Data Analytics Framework (DAF)
 lang: en
-permalink: /it/projects/daf.htm
+permalink: /en/projects/daf.htm
 layout: project
 ref: daf
 parent_ref: projects

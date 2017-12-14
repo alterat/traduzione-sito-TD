@@ -1,7 +1,7 @@
 ﻿---
 title:  National Registry of Resident Population (ANPR)
 lang: en
-permalink: /it/projects/anpr.htm
+permalink: /en/projects/anpr.htm
 layout: project
 ref: anpr
 parent_ref: projects

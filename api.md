@@ -1,7 +1,7 @@
 ﻿---
 title: The API ecosystem
 lang: en
-permalink: /it/projects/api.htm
+permalink: /en/projects/api.htm
 layout: project
 ref: api
 parent_ref: projects

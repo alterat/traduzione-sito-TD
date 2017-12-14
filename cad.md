@@ -1,7 +1,7 @@
 ﻿---
 title: Digital Administration Code (CAD)
 lang: en
-permalink: /it/projects/cad.htm
+permalink: /en/projects/cad.htm
 layout: project
 ref: cad
 parent_ref: projects
