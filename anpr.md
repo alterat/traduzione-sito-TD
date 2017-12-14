@@ -34,10 +34,10 @@ automating
 all procedures related to master data.
 
 With ANPR, the administrations will be able to efficiently dialogue with each other, 
-having a singular and reliable source for citizens&#39; data. Even today, however, 
+having a single, reliable source for citizens&#39; data. Even today, however, 
 ANPR allows citizens to obtain immediate benefits, such as the request for official 
-certificates in all municipalities, making changing one&#39;s residence simpler and immediate, 
-with the possibility of obtaining certificates from a single portal to be activated shortly.
+certificates in all municipalities, making the change of one&#39;s residence simpler and immediate.
+Shortly, the possibility of obtaining certificates from a single portal will also be activated.
 
 
 {:.h4}
@@ -48,7 +48,7 @@ with the possibility of obtaining certificates from a single portal to be activa
 
 ### The Team&#39;s Role
 
-ANPR is an essential step in rendering possible future innovations possible, which 
+ANPR is an essential step in rendering future innovations possible, which 
 would be impossible or very expensive today. The project existed well before 
 the birth of the Digital Transformation Team: we took over the direction with the 
 aim of creating a clear roadmap for implementation, modernising the operative method and accelerating its completion. In our blog 
@@ -61,9 +61,9 @@ the news
 {% include twitter_timeline.html %}
 
 ### Forum 
-ANPR is a project of national relevance. To encourage discussion and 
+ANPR is a project of national relevance. To foster a discussion and 
 an exchange of viewpoints, as well as to encourage the participation of 
-all players involved in the project (starting from over 8,000 Italian
+all players involved in the project (starting from the 8,000+ Italian
  municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)
 
 {% include forum.html %}
@@ -72,9 +72,9 @@ all players involved in the project (starting from over 8,000 Italian
 
 
 ### Media 
-For any contact request received from the media and journalists, the 
-Digital Transformation Team press and communication office is the point of 
-reference.
+
+Any contact request from the media and journalist should be addressed to the
+Digital Transformation Team press and communication office. 
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="6"></div>
