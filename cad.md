@@ -15,9 +15,9 @@ forum_limit: 3
 
 ### In short
 
-We must start writing fewer laws and more software [fewer codes and more coding] and, above all, we must ensure that within the laws - general and abstract by definition - only the principles etched out are those capable of lasting over time and unable to bind innovation and technologies of the past. 
+We must start writing fewer laws and more software [fewer codes and more coding] and, above all, we must ensure that the laws - general and abstract by definition - only carry those principles that are capable of lasting over time and that do not bind innovation and technologies to the past. 
 
-The rules, those in detail, are to be translated into bits, whilst the conventions for the exchange of data between administrations in the API, the administrative procedures in which the discretionary activity of the administration is absent or modest, should be transformed into machine-to-machine processes that are more effective and more democratic. 
+The rules, i.e. the details, are to be translated into bits, whilst the conventions for the exchange of data between administrations using APIs, the administrative procedures in which the discretionary activity of the administration is absent or modest, should be transformed into machine-to-machine processes that are more effective and more democratic. 
 
 **[Follow the latest project updates on Twitter](https://twitter.com/search?f=tweets&vertical=default&q=cad%20list%3AteamdigitaleIT%2Fteam-digitale&src=typd)**
 
